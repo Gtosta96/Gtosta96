@@ -3,11 +3,11 @@
 </p>
 
 <p>
-  <a href="#" alt="gabrieltosta3@gmail.com" title="gabrieltosta3@gmail.com" target="_blank">
+  <a href="mailto:gabrieltosta3@gmail.com" alt="gabrieltosta3@gmail.com" title="gabrieltosta3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gabrieltosta3@gmail.com" />
   </a>
 
-  <a href="#" alt="gtosta96" title="gtosta96" target="_blank">
+  <a href="https://www.linkedin.com/in/gtosta96/" alt="gtosta96" title="gtosta96" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtosta96/" />
   </a>
   
