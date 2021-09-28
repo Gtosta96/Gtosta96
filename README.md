@@ -20,6 +20,9 @@
 
 ### 📕 Blog posts
 <!-- BLOG:START -->
+- [As dicas mais valiosas sobre clean code que alguém vai te dar! - Parte 02](https://gabrieltosta.com.br/posts/03-as-dicas-mais-valiosas-sobre-clean-code-02)
+- [As dicas mais valiosas sobre clean code que alguém vai te dar! - Parte 01](https://gabrieltosta.com.br/posts/02-as-dicas-mais-valiosas-sobre-clean-code-01)
+- [Cinco dicas para quem quer migrar para a área de programação sem ter nenhuma experiência](https://gabrieltosta.com.br/posts/01-cinco-dicas-migrar-area-programacao)
 <!-- BLOG:END -->
 
 ### 📺 Youtube Videos
