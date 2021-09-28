@@ -1,5 +1,5 @@
 <p>
-  Desenvolvedor Javascript, aspirante a empreendedor & educador! 
+  Desenvolvedor javascript, aspirante a educador, escritor e empreendedor! 
 </p>
 
 <p>
@@ -16,4 +16,12 @@
       <img src="https://d33wubrfki0l68.cloudfront.net/28814445fc9b052c3199ec2d2bda1cda34776694/938f0/images/af2c8a69d48162f2bc6cc514534a646a.svg" min-width="250px" max-width="250px" width="250px" />
     </a>
   </div>
-</p>
+</p> 
+
+### 📕 Blog posts
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+### 📺 Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
