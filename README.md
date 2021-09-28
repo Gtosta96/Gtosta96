@@ -24,4 +24,9 @@
 
 ### 📺 Youtube Videos
 <!-- YOUTUBE:START -->
+- [Criando um personagem do Among Us com HTML e CSS](https://www.youtube.com/watch?v=YtMlEr7Phd0)
+- [Métodos de um Array em JavaScript (Parte 2)](https://www.youtube.com/watch?v=EzD55bD2kLA)
+- [Métodos de um Array em JavaScript (Parte 1)](https://www.youtube.com/watch?v=Pkgzv6Sl4ho)
+- [Como colocar meu site na internet com Github Pages (Tutorial Completo)](https://www.youtube.com/watch?v=vwxSQ50D1YI)
+- [FRONT-END vs BACK-END - NA PRÁTICA!](https://www.youtube.com/watch?v=nzSu53FGZEE)
 <!-- YOUTUBE:END -->
