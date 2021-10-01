@@ -20,6 +20,7 @@
 
 ### 📕 Blog posts
 <!-- BLOG:START -->
+- [Como eu atingi uma renda passiva de mais de R$ 1.000,00 com programação](https://gabrieltosta.com.br/posts/04-como-atingi-uma-renda-passiva-de-1000-reais-com-programacao)
 - [As dicas mais valiosas sobre clean code que alguém vai te dar! - Parte 02](https://gabrieltosta.com.br/posts/03-as-dicas-mais-valiosas-sobre-clean-code-02)
 - [As dicas mais valiosas sobre clean code que alguém vai te dar! - Parte 01](https://gabrieltosta.com.br/posts/02-as-dicas-mais-valiosas-sobre-clean-code-01)
 - [Cinco dicas para quem quer migrar para a área de programação sem ter nenhuma experiência](https://gabrieltosta.com.br/posts/01-cinco-dicas-migrar-area-programacao)
